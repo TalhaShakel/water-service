@@ -1,0 +1,100 @@
+name: water_drinking_reminder
+description: A Water Drinking Reminder application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  flutter_localizations:
+    sdk: flutter
+
+  page_transition: ^2.0.2
+  modal_progress_hud: ^0.1.3
+  shared_preferences: ^2.0.5
+  flutter_spinkit: ^5.0.0
+  lottie: ^1.0.1
+  smooth_page_indicator: ^0.2.3
+  fluttertoast: ^8.0.7
+  mask_text_input_formatter: ^2.0.0
+  time_picker_widget: ^1.0.0+10
+  sqflite: ^1.1.7+2
+  path_provider: ^2.0.2
+  flutter_local_notifications: ^6.0.0
+  flutter_native_timezone: ^2.0.0
+  permission_handler: ^8.1.3
+  pull_to_refresh: ^2.0.0
+  share: ^2.0.4
+  just_audio: ^0.9.3
+  flutter_ringtone_player: ^3.0.0
+  event_bus: ^2.0.0
+  url_launcher: ^6.0.9
+  rate_my_app: ^1.1.1
+  jiffy: ^4.1.0
+  camera: ^0.5.7+2
+  multi_image_picker: ^4.7.15
+  image_cropper: ^1.4.1
+  flutter_absolute_path: ^1.0.6
+  firebase_core: ^1.0.0
+  firebase_auth: ^1.2.0  
+  mp_chart:
+    path: "thirdparty/mp_chart"
+
+#  mp_chart:
+#    git:
+#      url: git://github.com/Juniorlpes/MPFlutterChart.git
+#      path: mp_chart
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/logo/
+    - assets/json/
+    - assets/audio/
+    - lib/lang/en.json
+
+  fonts:
+    - family: CalibriBold
+      fonts:
+        - asset: assets/fonts/calibri_bold.ttf
+    - family: CalibriLight
+      fonts:
+        - asset: assets/fonts/calibri_light.ttf
+    - family: CalibriRegular
+      fonts:
+        - asset: assets/fonts/calibri_regular.ttf
+    - family: RobotoRegular
+      fonts:
+        - asset: assets/fonts/roboto_regular.ttf
+    - family: RobotoBold
+      fonts:
+        - asset: assets/fonts/roboto_bold.ttf
+    - family: SPDLight
+      fonts:
+        - asset: assets/fonts/sf_pro_display_light.ttf
+    - family: SPDBold
+      fonts:
+        - asset: assets/fonts/sf_pro_display_bold.ttf
+    - family: SPDMedium
+      fonts:
+        - asset: assets/fonts/sf_pro_display_medium.ttf
+    - family: SPDSemiBold
+      fonts:
+        - asset: assets/fonts/sf_pro_display_semibold.ttf

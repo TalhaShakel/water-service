@@ -1,0 +1,693 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:1:1-62:12
+MERGED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:1:1-62:12
+MERGED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:image_gallery_saver] E:\New folder\main_file\water_drinking_reminder\build\image_gallery_saver\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:rate_my_app] E:\New folder\main_file\water_drinking_reminder\build\rate_my_app\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] E:\New folder\main_file\water_drinking_reminder\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] E:\New folder\main_file\water_drinking_reminder\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:just_audio] E:\New folder\main_file\water_drinking_reminder\build\just_audio\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] E:\New folder\main_file\water_drinking_reminder\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] E:\New folder\main_file\water_drinking_reminder\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_absolute_path] E:\New folder\main_file\water_drinking_reminder\build\flutter_absolute_path\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_ringtone_player] E:\New folder\main_file\water_drinking_reminder\build\flutter_ringtone_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_native_timezone] E:\New folder\main_file\water_drinking_reminder\build\flutter_native_timezone\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] E:\New folder\main_file\water_drinking_reminder\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] E:\New folder\main_file\water_drinking_reminder\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:multi_image_picker] E:\New folder\main_file\water_drinking_reminder\build\multi_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:audio_session] E:\New folder\main_file\water_drinking_reminder\build\audio_session\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] E:\New folder\main_file\water_drinking_reminder\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:camera] E:\New folder\main_file\water_drinking_reminder\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\2b298d710992f12b9e2e0e6710dea16b\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\f9401608da5990582e72f187cb8d2256\jetified-exoplayer-dash-2.13.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\074c3c37cc488b4021569dc4a49a8e8c\jetified-exoplayer-hls-2.13.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\6166a5f63ff254ffb4d071a5101ed508\jetified-exoplayer-smoothstreaming-2.13.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ad00b9018cb640f2913f43e47aefb979\jetified-exoplayer-core-2.13.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\3735f80810b5f8e768448e748d1ae40d\jetified-ucrop-2.2.7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\96707dd89c20df590786ee17a4c8a880\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\952fbba780c04eff7cbf7242b80c1500\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ee648ad90c6b4f84a68156d791c47397\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0e97a1b8a6b5c7d20b672b8fb48affe0\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3eaca1b0ed2b38e1723b37794351feb\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\7c775967b42375ed542f3d79944fd032\jetified-exoplayer-extractor-2.13.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5d755cfaa24be5cdbeee2dca64b11838\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\941be30b4072be9365042da7a7f965d9\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3afd55cb40b9ef3736a7af003b18396\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\dd46eb103acdc955baefd5e371aaaec7\jetified-media2-session-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\236a1c283dd1f96149ffd886c991250d\jetified-media2-common-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\afd2d987ef6a954ce95af3f20bd0f6cf\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\4e927d6984655c107bd05d46c5b4dbb8\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b501a4de79069b6f0f7e19e89b9b1dda\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\491bbb875d3deba872bb29adb6f841f9\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e5f0c7957424a546e9da21a08a739815\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\4137babf2606acb1e424ad3914d5b8b3\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\f263fcb179e74220f9266564bf6fa6b0\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0813e45a0b3806629b40dbeb70c75a60\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\da614d13d040eef48ad74ecd5566831c\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\14e561dfe998324f0993f7eed2935f20\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\4efff2607220e70718e03d4aa9fb6a32\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5c2aa6795903c0798c9fa6945a83813a\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\9f50970add90de827505a0a0260f016e\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\3a86517f25f758b64e56d4ba95cf6cf4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.2.0-alpha03] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\59bae0ef42d86413af79608346a877c0\media-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\7f810de1d48f35aaf9cad7d49b3dc285\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\40fa03cbf711c9b5abc7c7080df34e94\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\6638a1bb5b201a3b6303484a3c94e62a\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\10072416595a772c943a9777831fd79c\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\a935fa587df289485954d05015b0662e\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\1bb1cda2446dfb9ac6ad42ce27b12501\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\8fc41d1d021f97e69fbb6d77f999706d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\00f3203391459c0511dc68ed11c07cc4\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3b81dbbcca08326c40e5acfc36670a3\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5600aad99d3e6b3c713a2bae332fa275\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ff60b25419edc5e682541efdbdc701d8\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\a9067f94159f9ce449557338d8450eb9\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\9dc01f80be5d003ac3d9f81c085f13fd\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\892e33bb8831198eddbf74aff9d62de8\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\179f124db7de2f4ea8616b161b038e95\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\2da503f81c4c889616f23e7fa9c7271f\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\19b3f28125c2b0a4d5f183d50810f00e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\11efeec140e47cc964c7b51b01cdd88b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\af5ac34d8217e841163337c0c136aaf0\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\d261df177e472c4c3988c033af8e60c7\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\d5b1978c1cc049e0af8d5529cb2f4477\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\d411f9c3365264c9de8e991a9ee2b384\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0341135a479a1847e64dc720fa73a9d9\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\8b0cce3f36a1c28e7df6e72849a13547\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\38dc6ad0d9ee8143383008f8d2e90b8f\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e14179b77d836b84cf5bd98e9bbefc03\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\560b27646107b8ffd10f07fb92b9a070\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:1:1-62:12
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:1:1-62:12
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ad00b9018cb640f2913f43e47aefb979\jetified-exoplayer-core-2.13.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ad00b9018cb640f2913f43e47aefb979\jetified-exoplayer-core-2.13.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5d755cfaa24be5cdbeee2dca64b11838\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5d755cfaa24be5cdbeee2dca64b11838\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:10:5-94
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:10:22-92
+uses-permission#android.permission.CAMERA
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:12:5-65
+MERGED from [:camera] E:\New folder\main_file\water_drinking_reminder\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+MERGED from [:camera] E:\New folder\main_file\water_drinking_reminder\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:13:19-57
+application
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:15:4-61:19
+MERGED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:url_launcher] E:\New folder\main_file\water_drinking_reminder\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] E:\New folder\main_file\water_drinking_reminder\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:11:5-32:19
+MERGED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:11:5-32:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\2b298d710992f12b9e2e0e6710dea16b\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\2b298d710992f12b9e2e0e6710dea16b\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\96707dd89c20df590786ee17a4c8a880\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\96707dd89c20df590786ee17a4c8a880\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ee648ad90c6b4f84a68156d791c47397\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ee648ad90c6b4f84a68156d791c47397\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3afd55cb40b9ef3736a7af003b18396\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3afd55cb40b9ef3736a7af003b18396\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\f263fcb179e74220f9266564bf6fa6b0\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\f263fcb179e74220f9266564bf6fa6b0\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0813e45a0b3806629b40dbeb70c75a60\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0813e45a0b3806629b40dbeb70c75a60\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\da614d13d040eef48ad74ecd5566831c\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\da614d13d040eef48ad74ecd5566831c\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\14e561dfe998324f0993f7eed2935f20\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\14e561dfe998324f0993f7eed2935f20\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5600aad99d3e6b3c713a2bae332fa275\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5600aad99d3e6b3c713a2bae332fa275\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ff60b25419edc5e682541efdbdc701d8\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ff60b25419edc5e682541efdbdc701d8\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:10:3-17:17
+MERGED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:10:3-17:17
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\38dc6ad0d9ee8143383008f8d2e90b8f\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\38dc6ad0d9ee8143383008f8d2e90b8f\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e14179b77d836b84cf5bd98e9bbefc03\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e14179b77d836b84cf5bd98e9bbefc03\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+	android:requestLegacyExternalStorage
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:16:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5600aad99d3e6b3c713a2bae332fa275\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:17:9-48
+	android:icon
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:18:9-43
+activity#com.waterdrinkreminder.MainActivity
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:19:9-49:20
+	android:turnScreenOn
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:21:13-40
+	android:showWhenLocked
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:20:13-42
+	android:launchMode
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:23:13-43
+	android:hardwareAccelerated
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:26:13-47
+	android:windowSoftInputMode
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:27:13-55
+	android:configChanges
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:25:13-163
+	android:theme
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:22:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:32:13-35:17
+	android:resource
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:34:15-52
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:33:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:41:13-44:17
+	android:resource
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:43:15-61
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:42:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:45:13-48:29
+action#android.intent.action.MAIN
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:46:17-68
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:47:27-74
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:53:8-56:70
+	android:screenOrientation
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:55:12-48
+	android:theme
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:56:12-68
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:54:12-59
+meta-data#flutterEmbedding
+ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:58:9-60:33
+	android:value
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:60:13-30
+	android:name
+		ADDED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml:59:13-44
+uses-sdk
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_gallery_saver] E:\New folder\main_file\water_drinking_reminder\build\image_gallery_saver\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_gallery_saver] E:\New folder\main_file\water_drinking_reminder\build\image_gallery_saver\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:rate_my_app] E:\New folder\main_file\water_drinking_reminder\build\rate_my_app\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:rate_my_app] E:\New folder\main_file\water_drinking_reminder\build\rate_my_app\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\New folder\main_file\water_drinking_reminder\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\New folder\main_file\water_drinking_reminder\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] E:\New folder\main_file\water_drinking_reminder\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] E:\New folder\main_file\water_drinking_reminder\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] E:\New folder\main_file\water_drinking_reminder\build\just_audio\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] E:\New folder\main_file\water_drinking_reminder\build\just_audio\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\New folder\main_file\water_drinking_reminder\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\New folder\main_file\water_drinking_reminder\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] E:\New folder\main_file\water_drinking_reminder\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] E:\New folder\main_file\water_drinking_reminder\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_absolute_path] E:\New folder\main_file\water_drinking_reminder\build\flutter_absolute_path\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_absolute_path] E:\New folder\main_file\water_drinking_reminder\build\flutter_absolute_path\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_ringtone_player] E:\New folder\main_file\water_drinking_reminder\build\flutter_ringtone_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_ringtone_player] E:\New folder\main_file\water_drinking_reminder\build\flutter_ringtone_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_native_timezone] E:\New folder\main_file\water_drinking_reminder\build\flutter_native_timezone\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_timezone] E:\New folder\main_file\water_drinking_reminder\build\flutter_native_timezone\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] E:\New folder\main_file\water_drinking_reminder\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] E:\New folder\main_file\water_drinking_reminder\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] E:\New folder\main_file\water_drinking_reminder\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] E:\New folder\main_file\water_drinking_reminder\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:multi_image_picker] E:\New folder\main_file\water_drinking_reminder\build\multi_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:multi_image_picker] E:\New folder\main_file\water_drinking_reminder\build\multi_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] E:\New folder\main_file\water_drinking_reminder\build\audio_session\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] E:\New folder\main_file\water_drinking_reminder\build\audio_session\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\New folder\main_file\water_drinking_reminder\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\New folder\main_file\water_drinking_reminder\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camera] E:\New folder\main_file\water_drinking_reminder\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camera] E:\New folder\main_file\water_drinking_reminder\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\2b298d710992f12b9e2e0e6710dea16b\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\2b298d710992f12b9e2e0e6710dea16b\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\f9401608da5990582e72f187cb8d2256\jetified-exoplayer-dash-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\f9401608da5990582e72f187cb8d2256\jetified-exoplayer-dash-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\074c3c37cc488b4021569dc4a49a8e8c\jetified-exoplayer-hls-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\074c3c37cc488b4021569dc4a49a8e8c\jetified-exoplayer-hls-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\6166a5f63ff254ffb4d071a5101ed508\jetified-exoplayer-smoothstreaming-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\6166a5f63ff254ffb4d071a5101ed508\jetified-exoplayer-smoothstreaming-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ad00b9018cb640f2913f43e47aefb979\jetified-exoplayer-core-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ad00b9018cb640f2913f43e47aefb979\jetified-exoplayer-core-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\3735f80810b5f8e768448e748d1ae40d\jetified-ucrop-2.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\3735f80810b5f8e768448e748d1ae40d\jetified-ucrop-2.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\96707dd89c20df590786ee17a4c8a880\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\96707dd89c20df590786ee17a4c8a880\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\952fbba780c04eff7cbf7242b80c1500\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\952fbba780c04eff7cbf7242b80c1500\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ee648ad90c6b4f84a68156d791c47397\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ee648ad90c6b4f84a68156d791c47397\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0e97a1b8a6b5c7d20b672b8fb48affe0\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0e97a1b8a6b5c7d20b672b8fb48affe0\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3eaca1b0ed2b38e1723b37794351feb\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3eaca1b0ed2b38e1723b37794351feb\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\7c775967b42375ed542f3d79944fd032\jetified-exoplayer-extractor-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\7c775967b42375ed542f3d79944fd032\jetified-exoplayer-extractor-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5d755cfaa24be5cdbeee2dca64b11838\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5d755cfaa24be5cdbeee2dca64b11838\jetified-exoplayer-common-2.13.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\941be30b4072be9365042da7a7f965d9\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\941be30b4072be9365042da7a7f965d9\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3afd55cb40b9ef3736a7af003b18396\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3afd55cb40b9ef3736a7af003b18396\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\dd46eb103acdc955baefd5e371aaaec7\jetified-media2-session-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\dd46eb103acdc955baefd5e371aaaec7\jetified-media2-session-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\236a1c283dd1f96149ffd886c991250d\jetified-media2-common-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\236a1c283dd1f96149ffd886c991250d\jetified-media2-common-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\afd2d987ef6a954ce95af3f20bd0f6cf\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\afd2d987ef6a954ce95af3f20bd0f6cf\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\4e927d6984655c107bd05d46c5b4dbb8\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\4e927d6984655c107bd05d46c5b4dbb8\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b501a4de79069b6f0f7e19e89b9b1dda\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b501a4de79069b6f0f7e19e89b9b1dda\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\491bbb875d3deba872bb29adb6f841f9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\491bbb875d3deba872bb29adb6f841f9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e5f0c7957424a546e9da21a08a739815\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e5f0c7957424a546e9da21a08a739815\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\4137babf2606acb1e424ad3914d5b8b3\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\4137babf2606acb1e424ad3914d5b8b3\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\f263fcb179e74220f9266564bf6fa6b0\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\f263fcb179e74220f9266564bf6fa6b0\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0813e45a0b3806629b40dbeb70c75a60\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0813e45a0b3806629b40dbeb70c75a60\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\da614d13d040eef48ad74ecd5566831c\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\da614d13d040eef48ad74ecd5566831c\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\14e561dfe998324f0993f7eed2935f20\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\14e561dfe998324f0993f7eed2935f20\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\4efff2607220e70718e03d4aa9fb6a32\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\4efff2607220e70718e03d4aa9fb6a32\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5c2aa6795903c0798c9fa6945a83813a\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5c2aa6795903c0798c9fa6945a83813a\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\9f50970add90de827505a0a0260f016e\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\9f50970add90de827505a0a0260f016e\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\3a86517f25f758b64e56d4ba95cf6cf4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\3a86517f25f758b64e56d4ba95cf6cf4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.2.0-alpha03] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\59bae0ef42d86413af79608346a877c0\media-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha03] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\59bae0ef42d86413af79608346a877c0\media-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\7f810de1d48f35aaf9cad7d49b3dc285\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\7f810de1d48f35aaf9cad7d49b3dc285\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\40fa03cbf711c9b5abc7c7080df34e94\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\40fa03cbf711c9b5abc7c7080df34e94\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\6638a1bb5b201a3b6303484a3c94e62a\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\6638a1bb5b201a3b6303484a3c94e62a\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\10072416595a772c943a9777831fd79c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\10072416595a772c943a9777831fd79c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\a935fa587df289485954d05015b0662e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\a935fa587df289485954d05015b0662e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\1bb1cda2446dfb9ac6ad42ce27b12501\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\1bb1cda2446dfb9ac6ad42ce27b12501\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\8fc41d1d021f97e69fbb6d77f999706d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\8fc41d1d021f97e69fbb6d77f999706d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\00f3203391459c0511dc68ed11c07cc4\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\00f3203391459c0511dc68ed11c07cc4\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3b81dbbcca08326c40e5acfc36670a3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\b3b81dbbcca08326c40e5acfc36670a3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5600aad99d3e6b3c713a2bae332fa275\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\5600aad99d3e6b3c713a2bae332fa275\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ff60b25419edc5e682541efdbdc701d8\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\ff60b25419edc5e682541efdbdc701d8\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\a9067f94159f9ce449557338d8450eb9\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\a9067f94159f9ce449557338d8450eb9\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\9dc01f80be5d003ac3d9f81c085f13fd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\9dc01f80be5d003ac3d9f81c085f13fd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\892e33bb8831198eddbf74aff9d62de8\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\892e33bb8831198eddbf74aff9d62de8\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\179f124db7de2f4ea8616b161b038e95\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\179f124db7de2f4ea8616b161b038e95\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\2da503f81c4c889616f23e7fa9c7271f\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\2da503f81c4c889616f23e7fa9c7271f\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\19b3f28125c2b0a4d5f183d50810f00e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\19b3f28125c2b0a4d5f183d50810f00e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\11efeec140e47cc964c7b51b01cdd88b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\11efeec140e47cc964c7b51b01cdd88b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\af5ac34d8217e841163337c0c136aaf0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\af5ac34d8217e841163337c0c136aaf0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\d261df177e472c4c3988c033af8e60c7\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\d261df177e472c4c3988c033af8e60c7\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\d5b1978c1cc049e0af8d5529cb2f4477\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\d5b1978c1cc049e0af8d5529cb2f4477\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\d411f9c3365264c9de8e991a9ee2b384\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\d411f9c3365264c9de8e991a9ee2b384\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0341135a479a1847e64dc720fa73a9d9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0341135a479a1847e64dc720fa73a9d9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\8b0cce3f36a1c28e7df6e72849a13547\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\8b0cce3f36a1c28e7df6e72849a13547\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:4:3-70
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\38dc6ad0d9ee8143383008f8d2e90b8f\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\38dc6ad0d9ee8143383008f8d2e90b8f\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e14179b77d836b84cf5bd98e9bbefc03\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e14179b77d836b84cf5bd98e9bbefc03\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\560b27646107b8ffd10f07fb92b9a070\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\560b27646107b8ffd10f07fb92b9a070\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\main_file\water_drinking_reminder\android\app\src\debug\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] E:\New folder\main_file\water_drinking_reminder\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] E:\New folder\main_file\water_drinking_reminder\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-103
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] E:\New folder\main_file\water_drinking_reminder\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:25-79
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] E:\New folder\main_file\water_drinking_reminder\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] E:\New folder\main_file\water_drinking_reminder\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] E:\New folder\main_file\water_drinking_reminder\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] E:\New folder\main_file\water_drinking_reminder\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+provider#io.flutter.plugins.share.ShareFileProvider
+ADDED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:68
+	android:resource
+		ADDED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-65
+	android:name
+		ADDED from [:share] E:\New folder\main_file\water_drinking_reminder\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] E:\New folder\main_file\water_drinking_reminder\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera] E:\New folder\main_file\water_drinking_reminder\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-68
+provider#com.sangcomz.fishbun.FishBunFileProvider
+ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:13:13-68
+activity#com.sangcomz.fishbun.ui.album.AlbumActivity
+ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:22:9-25:51
+	android:label
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:24:13-42
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:23:13-71
+activity#com.sangcomz.fishbun.ui.picker.PickerActivity
+ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:26:9-28:51
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:27:13-73
+activity#com.sangcomz.fishbun.ui.detail.DetailActivity
+ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:29:9-31:54
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:31:13-51
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\061202dfe5a20cae738971ea1b8ef7ad\jetified-FishBun-0.11.2\AndroidManifest.xml:30:13-73
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\cb85e813550ceb859d5d8655b705694f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\e8c12af64c0d197211b7d090cb61cdf8\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0813e45a0b3806629b40dbeb70c75a60\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0813e45a0b3806629b40dbeb70c75a60\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0813e45a0b3806629b40dbeb70c75a60\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\0813e45a0b3806629b40dbeb70c75a60\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\14e561dfe998324f0993f7eed2935f20\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\14e561dfe998324f0993f7eed2935f20\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\14e561dfe998324f0993f7eed2935f20\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:8:20-72
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:16:5-145
+	android:enabled
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.8.0] C:\Users\Talha\.gradle\caches\transforms-2\files-2.1\115d92376ffbee5c2aa81a27002d7459\jetified-core-1.8.0\AndroidManifest.xml:16:14-95

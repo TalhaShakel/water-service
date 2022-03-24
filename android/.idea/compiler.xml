@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="android.app" target="11" />
+      <module name="android.audio_session" target="11" />
+      <module name="android.camera" target="11" />
+      <module name="android.flutter_absolute_path" target="11" />
+      <module name="android.flutter_local_notifications" target="11" />
+      <module name="android.flutter_ringtone_player" target="11" />
+      <module name="android.fluttertoast" target="11" />
+      <module name="android.image_cropper" target="11" />
+      <module name="android.image_gallery_saver" target="11" />
+      <module name="android.just_audio" target="11" />
+      <module name="android.multi_image_picker" target="11" />
+      <module name="android.path_provider" target="11" />
+      <module name="android.permission_handler" target="11" />
+      <module name="android.rate_my_app" target="11" />
+      <module name="android.share" target="11" />
+      <module name="android.shared_preferences" target="11" />
+      <module name="android.sqflite" target="11" />
+      <module name="android.url_launcher" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

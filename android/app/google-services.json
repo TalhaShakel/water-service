@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "154820593504",
+    "project_id": "worth-of-water-d4120",
+    "storage_bucket": "worth-of-water-d4120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154820593504:android:3f6da0730bb7ec02ea0005",
+        "android_client_info": {
+          "package_name": "com.waterdrinkreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154820593504-acv10ul0n697e1s2s3d6k5kda68e6s11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBER7UM59cK14SYWbXHSIskPz3E590xQYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154820593504-acv10ul0n697e1s2s3d6k5kda68e6s11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154820593504:android:657191ed4ecc29d8ea0005",
+        "android_client_info": {
+          "package_name": "com.wellwisher.world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154820593504-dpmk9te7sid6s8f94ngr2881mol2bkrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wellwisher.world",
+            "certificate_hash": "8154237e185b9aafa9310c33c523fa619d064a1e"
+          }
+        },
+        {
+          "client_id": "154820593504-acv10ul0n697e1s2s3d6k5kda68e6s11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBER7UM59cK14SYWbXHSIskPz3E590xQYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154820593504-acv10ul0n697e1s2s3d6k5kda68e6s11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

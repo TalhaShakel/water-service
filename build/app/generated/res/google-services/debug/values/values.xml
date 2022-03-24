@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">154820593504-acv10ul0n697e1s2s3d6k5kda68e6s11.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">154820593504</string>
+    <string name="google_api_key" translatable="false">AIzaSyBER7UM59cK14SYWbXHSIskPz3E590xQYk</string>
+    <string name="google_app_id" translatable="false">1:154820593504:android:3f6da0730bb7ec02ea0005</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBER7UM59cK14SYWbXHSIskPz3E590xQYk</string>
+    <string name="google_storage_bucket" translatable="false">worth-of-water-d4120.appspot.com</string>
+    <string name="project_id" translatable="false">worth-of-water-d4120</string>
+</resources>

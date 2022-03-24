@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/waterdrinkreminder/BuildConfig.java
+ com.waterdrinkreminder.BuildConfig
